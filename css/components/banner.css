@@ -1,0 +1,15 @@
+.banner {
+  background-image: url(../../images/diy.jpeg);
+  padding: 130px  0px;
+  background-size: cover;
+  background-position: center;
+  color:rgb(247, 247, 229)
+}
+
+.banner h1 {
+  font-size: 52px;
+}
+.banner p {
+  font-size: 42px;
+  margin-bottom: 24px;
+}

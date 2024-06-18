@@ -1,0 +1,63 @@
+.card-atelier1 {
+  background-color: white;
+  border-radius: 4px;
+  text-align: center;
+  width: 200px;
+  height: 300px;
+  padding: 20px;
+  box-shadow: 0 0 5px rgba(0, 0, 0, 0.2);
+  margin-top: 20px;
+}
+
+.card-atelier1 img {
+  width: 150px;
+}
+.card-atelier1-infos {
+  padding-bottom: 1em;
+}
+
+.card-atelier2 {
+  background-color: white;
+  border-radius: 4px;
+  text-align: center;
+  width: 200px;
+  height: 300px;
+  padding: 20px;
+  box-shadow: 0 0 5px rgba(0, 0, 0, 0.2);
+  margin-top: 20px;
+}
+
+.card-atelier2 img {
+  width: 150px;
+}
+.card-atelier2-infos {
+  padding-bottom: 1em;
+}
+
+.card-atelier3 {
+  background-color: white;
+  border-radius: 4px;
+  text-align: center;
+  width: 200px;
+  height: 300px;
+  padding: 20px;
+  box-shadow: 0 0 5px rgba(0, 0, 0, 0.2);
+  margin-top: 20px;
+}
+
+.card-atelier3 img {
+  width: 150px;
+}
+.card-atelier3-infos {
+  padding-bottom: 1em;
+}
+
+.cards {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  margin-bottom: 30px;
+}
+.presentation h2{
+  text-align: center;
+}

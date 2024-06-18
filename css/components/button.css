@@ -1,0 +1,12 @@
+.btn-dark{
+  padding: 12px 20px;
+  border-radius: 15px;
+  font-weight: bolder;
+  background-color:black;
+  background-image: linear-gradient(gray);
+  transition: background-color 1s;
+  color:beige
+}
+.btn-dark:hover {
+  background-color:gray;
+}
